@@ -11,7 +11,7 @@ My Name is Muhammad Ferry Dharmawan
 
 ## 🔎 You can find me on:
 
-<a href="mailto:haekalsutrisna@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:muhammadferrydharmawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-ferry-dharmawan/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadferrydharmawan.github.io/)
 
