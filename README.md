@@ -7,7 +7,7 @@ My Name is Muhammad Ferry Dharmawan
 - 🔭 I’m currently working as Web Developer If you want to get more information about me, please kindly follow my [Linkedin](https://www.linkedin.com/in/m-ferry-dharmawan/)
   
 ## 👨‍💻My Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,js,mysql,figma,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,js,mysql,figma,git)](https://skillicons.dev) 
 
 ## 🔎 You can find me on:
 
