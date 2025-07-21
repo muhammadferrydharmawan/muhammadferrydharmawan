@@ -4,7 +4,7 @@
 ### ✨Welcome to My Personal Repository✨
 
 My Name is Muhammad Ferry Dharmawan
-- 🔭 I’m currently working as WEB Developer If you want to get more information about me, please kindly follow my [Linkedin](https://www.linkedin.com/in/m-ferry-dharmawan/)
+- 🔭 I’m currently working as Web Developer If you want to get more information about me, please kindly follow my [Linkedin](https://www.linkedin.com/in/m-ferry-dharmawan/)
   
 ## 👨‍💻My Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=js,bootstrap,php,mysql,figma,git)](https://skillicons.dev) 
