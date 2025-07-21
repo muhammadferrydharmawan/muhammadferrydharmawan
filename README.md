@@ -18,3 +18,8 @@ My Name is Muhammad Ferry Dharmawan
 ## 🕹️My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadferrydharmawan&show_icons=true&theme=tokyonight" width="48%"> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadferrydharmawan&layout=compact&theme=tokyonight" width="36.5%">
 
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadferrydharmawan&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadferrydharmawan&layout=compact&theme=tokyonight&langs_count=8)
