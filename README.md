@@ -16,8 +16,4 @@ My Name is Muhammad Ferry Dharmawan
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadferrydharmawan.github.io/)
 
 ## 🕹️My Stats
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadferrydharmawan&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadferrydharmawan&layout=compact&theme=tokyonight&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadferrydharmawan&show_icons=true&theme=tokyonight" width="48%"> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadferrydharmawan&layout=compact&theme=tokyonight" width="36.5%">
